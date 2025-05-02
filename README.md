@@ -9,20 +9,38 @@ Vaidya is an intelligent, multilingual AI-powered hospital receptionist designed
 
 ---
 
-## 🔍 Project Details
+<h2 style="font-family: 'Montserrat', sans-serif; font-size: 24px;">🧪 PROBLEM IDENTIFIED AND RESEARCHED</h2>
 
-- **Name:** Vaidya (वैयद्य) – The AI Front Desk
-- **Use Case:** Smart Reception System for Rural & Urban Government Hospitals
-- **Built For:** Mahatma Jyotiba Phule Jan Arogya Yojana + PM-JAY
-- **Technologies:** LLM (LLaMA 3.1 8B), LangChain, Python, FastAPI, SQLite, Raspberry Pi, Printer Hardware Integration
-- **Features:**
-  - Multilingual Chat Interface (Marathi, Hindi, English)
-  - Scheme Eligibility Checker (via Aadhaar & Ration Card simulation)
-  - Case Paper Generator (Auto print using local hardware)
-  - Structured Multi-Turn Conversation Dataset
-  - Admin Dashboard for Hospital Staff
+<p style="color: red; font-size: 20px; font-family: 'Montserrat', sans-serif;">
+<b>Lack of Awareness & Access to Healthcare Schemes</b><br/>
+• State and Central governments have provided 15+ schemes for reducing healthcare costs/burden.<br/>
+• As of 2017–2018, only 14.1% of the rural population had health insurance coverage.<br/>
+• Lack of awareness of schemes, applicability, and application process is the major hurdle in using these benefits.
+</p>
 
----
+<p style="color: red; font-size: 20px; font-family: 'Montserrat', sans-serif;">
+<b>Infrastructure Gaps</b><br/>
+• Doctor-patient or Patient-Receptionist ratio of ~1:1456 and ~1:25,000 in rural areas.
+</p>
+
+<p style="color: red; font-size: 20px; font-family: 'Montserrat', sans-serif;">
+<b>Receptionist Quality & Quantity Crisis</b><br/>
+• Many hospitals lack sufficient trained receptionists, especially during peak hours.<br/>
+• The few available receptionists are often untrained or unable to handle the high volume of patients.<br/>
+• This results in:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;– No one explaining government scheme benefits to the patients<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;– Confusion and chaos at registration desks<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;– Increased wait times and patient dissatisfaction<br/>
+• Ultimately, patients are not getting the facilities they are entitled to — not because they don’t exist, but because the front desk fails to deliver them.
+</p>
+
+<!-- Images -->
+<p align="center">
+  <img src="image1.png" alt="Overcrowded Hospital Queue" width="32%" />
+  <img src="image2.png" alt="Confused Patient at Reception" width="32%" />
+  <img src="image3.png" alt="Empty Reception Desk" width="32%" />
+</p>
+
 
 ## 🌟 Why Vaidya is the Best
 
