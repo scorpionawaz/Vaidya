@@ -9,7 +9,7 @@ Vaidya is an intelligent, multilingual AI-powered hospital receptionist designed
 
 ---
 
-<h2 style="font-family: 'Montserrat', sans-serif; font-size: 24px;">🧪 PROBLEM IDENTIFIED AND RESEARCHED</h2>
+<h2 style="font-family: 'Montserrat', sans-serif; font-size: 4px;">🧪 PROBLEM IDENTIFIED AND RESEARCHED</h2>
 
 <p style="color: red; font-size: 20px; font-family: 'Montserrat', sans-serif;">
 <b>Lack of Awareness & Access to Healthcare Schemes</b><br/>
@@ -43,13 +43,20 @@ Vaidya is an intelligent, multilingual AI-powered hospital receptionist designed
 
 
 ## 🌟 Why Vaidya is the Best
-
+## ✅ **Works Offline:**  Powered By llama SLM , it works without internet and Any cloud Dependancy
 - ✅ **Built for Bharat:** Designed with Indian rural needs in mind—vernacular languages, offline support, and affordable deployment.
 - ✅ **Fully Automated Reception:** Reduces patient waiting time and improves first-contact quality in hospitals with staff shortages.
 - ✅ **Hardware-Aware AI:** Not just a chatbot—Vaidya interacts with real-world devices like printers and ID scanners.
 - ✅ **Scheme Smart:** Guides patients through eligibility and benefits of government health schemes.
 - ✅ **Plug-and-Play:** Deployable on low-power devices (Android) requiring minimal setup and infrastructure.
-- ✅ **Open Dataset:** Includes 50+ structured, real-life hospital conversation samples for domain-specific training.
+---
+
+<p align="center">
+  <img src="language.png" alt="Overcrowded Hospital Queue" width="32%" />
+  <img src="aadhar.png" alt="Confused Patient at Reception" width="32%" />
+  <img src="print.png" alt="Empty Reception Desk" width="32%" />
+</p>
+
 
 ---
 
