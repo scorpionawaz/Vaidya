@@ -48,7 +48,7 @@ Vaidya is an intelligent, multilingual AI-powered hospital receptionist designed
 - ✅ **Fully Automated Reception:** Reduces patient waiting time and improves first-contact quality in hospitals with staff shortages.
 - ✅ **Hardware-Aware AI:** Not just a chatbot—Vaidya interacts with real-world devices like printers and ID scanners.
 - ✅ **Scheme Smart:** Guides patients through eligibility and benefits of government health schemes.
-- ✅ **Plug-and-Play:** Deployable on low-power devices (Raspberry Pi), requiring minimal setup and infrastructure.
+- ✅ **Plug-and-Play:** Deployable on low-power devices (Android) requiring minimal setup and infrastructure.
 - ✅ **Open Dataset:** Includes 50+ structured, real-life hospital conversation samples for domain-specific training.
 
 ---
