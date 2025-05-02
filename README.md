@@ -36,9 +36,9 @@ Vaidya is an intelligent, multilingual AI-powered hospital receptionist designed
 
 <!-- Images -->
 <p align="center">
-  <img src="image1.png" alt="Overcrowded Hospital Queue" width="32%" />
-  <img src="image2.png" alt="Confused Patient at Reception" width="32%" />
-  <img src="image3.png" alt="Empty Reception Desk" width="32%" />
+  <img src="line.png" alt="Overcrowded Hospital Queue" width="32%" />
+  <img src="graphs.png" alt="Confused Patient at Reception" width="32%" />
+  <img src="rush.png" alt="Empty Reception Desk" width="32%" />
 </p>
 
 
