@@ -51,7 +51,7 @@ Vaidya, multilingual AI-powered hospital receptionist designed for government ho
 - ✅ **Scheme Smart:** Guides patients through eligibility and benefits of government health schemes.
 - ✅ **Plug-and-Play:** Deployable on low-power devices (Android) requiring minimal setup and infrastructure.
 ---
-##  🌟 TALKS IN HINDI ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ 🌟 AUTOMATIC DATA INPUT  ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟PRINTER FOR HARD COPY
+##  🌟 TALKS IN HINDI ‎ ‎ ‎ ‎ 🌟 AUTOMATIC DATA INPUT  ‎ ‎‎ 🌟PRINTER FOR HARD COPY
 
 <p align="center">
   <img src="language.png" alt="Overcrowded Hospital Queue" width="32%" height=80% />
