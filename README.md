@@ -3,9 +3,10 @@
   <img src="banner.png" alt="Vaidya Banner" width="100%" />
 </p>
 
-# 🏥 Vaidya – AI Receptionist for Government Hospitals
+# ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎ ‎ ‎  ‎ 🏥 Vaidya – AI Receptionist for Government Hospitals
 
-Vaidya is an intelligent, multilingual AI-powered hospital receptionist designed for government hospitals under **MJPJAY + PM-JAY** schemes. It automates patient interaction, scheme eligibility checks, appointment booking, and case paper generation—offering 24/7 support with zero waiting time.
+Vaidya, multilingual AI-powered hospital receptionist designed for government hospitals. It automates patient interaction, scheme eligibility checks, appointment booking, and case paper generation—offering 24/7 support with zero waiting time. 
+## OFFLINE , MULTILANGUAL , HARDWARE ACCESS , CLOUD FREE , NO DIGITAL LITRACY REQUIRED
 
 ---
 
@@ -31,7 +32,7 @@ Vaidya is an intelligent, multilingual AI-powered hospital receptionist designed
 &nbsp;&nbsp;&nbsp;&nbsp;– No one explaining government scheme benefits to the patients<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;– Confusion and chaos at registration desks<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;– Increased wait times and patient dissatisfaction<br/>
-• Ultimately, patients are not getting the facilities they are entitled to — not because they don’t exist, but because the front desk fails to deliver them.
+<h2 style="color:red">• Ultimately, patients are not getting the facilities they are entitled to — not because they don’t exist, but because the front desk fails to deliver them.</h2>
 </p>
 
 <!-- Images -->
@@ -50,9 +51,10 @@ Vaidya is an intelligent, multilingual AI-powered hospital receptionist designed
 - ✅ **Scheme Smart:** Guides patients through eligibility and benefits of government health schemes.
 - ✅ **Plug-and-Play:** Deployable on low-power devices (Android) requiring minimal setup and infrastructure.
 ---
+##  🌟 TALKS IN HINDI ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ 🌟 AUTOMATIC DATA INPUT  ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟PRINTER FOR HARD COPY
 
 <p align="center">
-  <img src="language.png" alt="Overcrowded Hospital Queue" width="32%" />
+  <img src="language.png" alt="Overcrowded Hospital Queue" width="32%" height=80% />
   <img src="aadhar.png" alt="Confused Patient at Reception" width="32%" />
   <img src="print.png" alt="Empty Reception Desk" width="32%" />
 </p>
