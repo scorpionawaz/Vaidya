@@ -10,6 +10,21 @@ Vaidya, multilingual AI-powered hospital receptionist designed for government ho
 ## OFFLINE , MULTILANGUAL , HARDWARE ACCESS , CLOUD FREE , NO DIGITAL LITRACY REQUIRED
 
 ---
+---
+
+## © 2025 ADROIT A Software Development and Versatile Community – All Rights Reserved.
+
+This software/application is developed by **ADROIT**, a software development and versatile community.  
+It is **published strictly for evaluation purposes** as part of the **Pragati AI for Impact Hackathon**.
+
+>
+ 
+Please do not attempt to clone, reuse, or redistribute this project.  
+Even if cloned, this system **will not function without the SLM **.
+
+**Any unauthorized modification, distribution, or usage of this project or its components is prohibited. Legal action will be taken** against violators under applicable IP laws.
+
+---
 
 <h2 style="font-family: 'Montserrat', sans-serif; font-size: 4px;">🧪 PROBLEM IDENTIFIED AND RESEARCHED</h2>
 
