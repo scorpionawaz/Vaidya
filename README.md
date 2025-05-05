@@ -68,7 +68,7 @@ Even if cloned, this system **will not function without the SLM **.
 - ✅ **Scheme Smart:** Guides patients through eligibility and benefits of government health schemes.
 - ✅ **Plug-and-Play:** Deployable on low-power devices (Android) requiring minimal setup and infrastructure.
 ---
-##  🌟 TALKS IN HINDI 🌟 AUTOMATIC DATA INPUT 🌟PRINTER FOR HARD COPY
+## 🌟 TALKS IN HINDI🌟 AUTOMATIC DATA INPUT🌟PRINTER FOR HARD COPY
 
 <p align="center">
   <img src="language.png" alt="Overcrowded Hospital Queue" width="32%" height=80% />
@@ -82,7 +82,7 @@ Even if cloned, this system **will not function without the SLM **.
 > "Vaidya is not just an assistant—it's a healthcare bridge between people and policy."
 
 ---
-##  ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎                                                                         ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎🔍 FINE-TUNED MODELS → `VAIDYA_MIDNIGHT`By Nawaz Sayyad
+##  ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎                                                              ‎ ‎‎ ‎ ‎🔍 FINE-TUNED MODELS → `VAIDYA_MIDNIGHT`By Nawaz Sayyad
 
  ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎                                     ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎                            ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎[![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/)  
  
