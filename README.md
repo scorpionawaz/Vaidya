@@ -11,6 +11,7 @@
 Vaidya, multilingual AI-powered hospital receptionist designed for government hospitals. It automates patient interaction, scheme eligibility checks, appointment booking, and case paper generation—offering 24/7 support with zero waiting time. 
 
 ## OFFLINE , MULTILANGUAL , HARDWARE ACCESS , CLOUD FREE , NO DIGITAL LITRACY REQUIRED
+# 🔗 **Demo:** [ai-vaidya-patient-guide.lovable.app](https://ai-vaidya-patient-guide.lovable.app/)  
 
 ---
 
@@ -81,7 +82,10 @@ Even if cloned, this system **will not function without the SLM **.
 > "Vaidya is not just an assistant—it's a healthcare bridge between people and policy."
 
 ---
+##  ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎                                                                         ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎🔍 FINE-TUNED MODELS → `VAIDYA_MIDNIGHT`By Nawaz Sayyad
 
-🔗 **Demo (https://ai-vaidya-patient-guide.lovable.app/) 
-📫 **Contact:** Nawaz Sayyad, ADROIT Team
+ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎                                     ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎                            ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎                             ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎ ‎[![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/)  
+ 
+##       VAIDYA FINE TUNED MODELS REPO HUGGING FACE =                           [vaidya_midnight](https://huggingface.co/nawazadroit)
 
+- 📫 **Contact:** Nawaz Sayyad, ADROIT Team  
