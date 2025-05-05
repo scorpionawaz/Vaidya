@@ -9,6 +9,7 @@
   <img src="_MG_0469.JPG" alt="Vaidya Banner" width="100%" />
 </p>
 Vaidya, multilingual AI-powered hospital receptionist designed for government hospitals. It automates patient interaction, scheme eligibility checks, appointment booking, and case paper generation—offering 24/7 support with zero waiting time. 
+
 ## OFFLINE , MULTILANGUAL , HARDWARE ACCESS , CLOUD FREE , NO DIGITAL LITRACY REQUIRED
 
 ---
