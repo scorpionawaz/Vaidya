@@ -79,6 +79,6 @@ Even if cloned, this system **will not function without the SLM **.
 
 ---
 
-🔗 **Demo / Docs / API:** *(Add links if hosted)*  
+🔗 **Demo (https://ai-vaidya-patient-guide.lovable.app/) 
 📫 **Contact:** Nawaz Sayyad, ADROIT Team
 
