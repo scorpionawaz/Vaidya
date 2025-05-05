@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    tools:context=".HindiActivity">
+    <ImageView
+        android:id="@+id/topImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/rolmodel"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="-30dp"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- RecyclerView for Chat Messages -->
+
+    <!-- Appointment Booking TextView -->
+
+    <!-- Input Area -->
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chatRecyclerView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="12dp"
+        app:layout_constraintBottom_toTopOf="@+id/micButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:listitem="@layout/item_chat_message" />
+
+    <TextView
+        android:id="@+id/bb"
+        style="@style/LanguageBox"
+        android:layout_width="378dp"
+        android:layout_height="102dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/gradient_blue"
+        android:onClick="onLanguageSelected"
+        android:text="अपॉइंटमेंट बुकिंग"
+        app:layout_constraintBottom_toBottomOf="@+id/chatRecyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.212"
+        app:layout_goneMarginTop="50px" />
+
+    <TextView
+        android:id="@+id/pp"
+        style="@style/LanguageBox"
+        android:layout_width="383dp"
+        android:layout_height="107dp"
+        android:layout_marginTop="352dp"
+        android:background="@drawable/gradient_blue"
+        android:onClick="onLanguageSelected"
+        android:text="योजना के लिए आवेदन करें"
+        app:layout_constraintBottom_toBottomOf="@+id/chatRecyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bb"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/buttonpress"
+        style="@style/LanguageBox"
+        android:layout_width="352dp"
+        android:layout_height="159dp"
+        android:layout_marginTop="352dp"
+        android:background="@drawable/gradient_nudge"
+        android:onClick="onLanguageSelected"
+        android:text="कृपया माइक दबाएँ और बोलना शुरू करें"
+        app:layout_constraintBottom_toBottomOf="@+id/chatRecyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bb"
+        app:layout_constraintVertical_bias="0.79" />
+
+    <LinearLayout
+        android:id="@+id/inputLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_input_box"
+        android:elevation="8dp"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <EditText
+            android:id="@+id/messageEditText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/black"
+            android:backgroundTint="#B7D8FF"
+            android:elevation="2dp"
+            android:fontFamily="sans-serif-light"
+            android:hint="बोलना शुरू करें..."
+            android:inputType="text"
+            android:padding="12dp"
+            android:textColor="@color/black"
+            android:textColorHint="#000000"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <!-- Floating Mic Button -->
+    <ImageButton
+        android:id="@+id/micButton"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/ic_mic"
+        android:backgroundTint="#58342E"
+        android:contentDescription="Speak"
+        android:elevation="12dp"
+        app:layout_constraintBottom_toTopOf="@id/inputLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

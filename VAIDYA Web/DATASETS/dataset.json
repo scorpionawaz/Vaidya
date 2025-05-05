@@ -1,0 +1,88 @@
+{
+    "conversations": [
+        [
+            {"from": "human", "value": "I have a headache."},
+            {"from": "gpt", "value": "I'm sorry to hear that. Would you like to book an appointment?"},
+            {"from": "human", "value": "Yes, please."},
+            {"from": "gpt", "value": "Have you registered with us before?"},
+            {"from": "human", "value": "No, I haven't."},
+            {"from": "gpt", "value": "Let's start your registration. Do you have an Aadhaar card?"},
+            {"from": "human", "value": "Yes, I do."},
+            {"from": "gpt", "value": "SCANOBJ001"}
+        ],
+        [
+            {"from": "human", "value": "I need to see a doctor."},
+            {"from": "gpt", "value": "Are you registered with us?"}, 
+            {"from": "human", "value": "Yes, I am."},
+            {"from": "gpt", "value": "Great. Can you please provide your registration ID?"},
+            {"from": "human", "value": "My ID is Pat456."},
+            {"from": "gpt", "value": "fun(Pat456)"}
+        ],
+        [
+            {"from": "human", "value": "I want to register."},
+            {"from": "gpt", "value": "Sure! Do you have an Aadhaar card?"}, 
+            {"from": "human", "value": "Yes, I do."},
+            {"from": "gpt", "value": "SCANOBJ001"}
+        ],
+        [
+            {"from": "human", "value": "I need to register."},
+            {"from": "gpt", "value": "I'd be happy to assist you. Do you have an Aadhaar card?"},
+            {"from": "human", "value": "No, I don't have one."},
+            {"from": "gpt", "value": "TAKEMANUAL002"}
+        ],
+        [
+            {"from": "human", "value": "I have a fever."},
+            {"from": "gpt", "value": "Would you like to book an appointment with a doctor?"},
+            {"from": "human", "value": "Yes, please."},
+            {"from": "gpt", "value": "Are you registered with us?"}, 
+            {"from": "human", "value": "I don't remember."},
+            {"from": "gpt", "value": "We can check using some personal information or start a new registration. What would you prefer?"}
+        ],
+        [
+            {"from": "human", "value": "My stomach hurts."},
+            {"from": "gpt", "value": "I'm sorry to hear that. Would you like to schedule an appointment with a doctor?"}, 
+            {"from": "human", "value": "Yes, I would."},
+            {"from": "gpt", "value": "Are you registered with our hospital?"}, 
+            {"from": "human", "value": "Yes, I am."},
+            {"from": "gpt", "value": "Great. Can you please provide your registration ID?"},
+            {"from": "human", "value": "It's Pat789."},
+            {"from": "gpt", "value": "fun(Pat789)"}
+        ],
+        [
+            {"from": "human", "value": "I need to update my registration information."},
+            {"from": "gpt", "value": "Sure, I can help with that. Could you provide your current registration ID?"}, 
+            {"from": "human", "value": "Pat101."},
+            {"from": "gpt", "value": "To update your information, we'll need to verify your identity. Do you have your Aadhaar card?"}, 
+            {"from": "human", "value": "Yes, I do."},
+            {"from": "gpt", "value": "SCANOBJ001"}
+        ],
+        [
+            {"from": "human", "value": "I want to book an appointment for my child."},
+            {"from": "gpt", "value": "Is your child already registered with our hospital?"}, 
+            {"from": "human", "value": "No, this is our first time."},
+            {"from": "gpt", "value": "REG0NEW"}
+        ],
+        [
+            {"from": "human", "value": "I lost my registration card. What should I do?"}, 
+            {"from": "gpt", "value": "We can help retrieve your registration information. Do you remember your registration ID?"}, 
+            {"from": "human", "value": "No, I don't."},
+            {"from": "gpt", "value": "That's okay. We can locate your information using other details. Do you have your Aadhaar card?"}, 
+            {"from": "human", "value": "Yes, I have it."},
+            {"from": "gpt", "value": "SCANOBJ001"}
+        ],
+        [
+            {"from": "human", "value": "Book an appointment for me"},
+            {"from": "gpt", "value": "Great. Can you please provide your registration ID?"},
+            {"from": "human", "value": "My ID is Pat456."},
+            {"from": "gpt", "value": "fun(Pat456)"}
+        ],
+        [
+            {"from": "human", "value": "I need to see a specialist."},
+            {"from": "gpt", "value": "Sure, I can help you with that. Are you registered with our hospital?"}, 
+            {"from": "human", "value": "Yes, I am."},
+            {"from": "gpt", "value": "Great. Can you provide your registration ID?"}, 
+            {"from": "human", "value": "It's Pat202."},
+            {"from": "gpt", "value": "fun(Pat202)"}
+        ]
+    ]
+}

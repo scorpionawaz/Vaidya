@@ -1,0 +1,251 @@
+{
+    "conversations": [
+        {
+            "role": "human",
+            "content": "I have a headache.",
+     
+            "role": "gpt",
+            "content": "I'm sorry to hear that. Would you like to book an appointment?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, please."
+        },
+        {
+            "role": "gpt",
+            "content": "Have you registered with us before?"
+        },
+        {
+            "role": "human",
+            "content": "No, I haven't."
+        },
+        {
+            "role": "gpt",
+            "content": "Let's start your registration. Do you have an Aadhaar card?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, I do."
+        },
+        {
+            "role": "gpt",
+            "content": "SCANOBJ001"
+        },
+        {
+            "role": "human",
+            "content": "I need to see a doctor."
+        },
+        {
+            "role": "gpt",
+            "content": "Are you registered with us?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, I am."
+        },
+        {
+            "role": "gpt",
+            "content": "Great. Can you please provide your registration ID?"
+        },
+        {
+            "role": "human",
+            "content": "My ID is Pat456."
+        },
+        {
+            "role": "gpt",
+            "content": "fun(Pat456)"
+        },
+        {
+            "role": "human",
+            "content": "I want to register."
+        },
+        {
+            "role": "gpt",
+            "content": "Sure! Do you have an Aadhaar card?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, I do."
+        },
+        {
+            "role": "gpt",
+            "content": "SCANOBJ001"
+        },
+        {
+            "role": "human",
+            "content": "I need to register."
+        },
+        {
+            "role": "gpt",
+            "content": "I'd be happy to assist you. Do you have an Aadhaar card?"
+        },
+        {
+            "role": "human",
+            "content": "No, I don't have one."
+        },
+        {
+            "role": "gpt",
+            "content": "TAKEMANUAL002"
+        },
+        {
+            "role": "human",
+            "content": "I have a fever."
+        },
+        {
+            "role": "gpt",
+            "content": "Would you like to book an appointment with a doctor?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, please."
+        },
+        {
+            "role": "gpt",
+            "content": "Are you registered with us?"
+        },
+        {
+            "role": "human",
+            "content": "I don't remember."
+        },
+        {
+            "role": "gpt",
+            "content": "We can check using some personal information or start a new registration. What would you prefer?"
+        },
+        {
+            "role": "human",
+            "content": "My stomach hurts."
+        },
+        {
+            "role": "gpt",
+            "content": "I'm sorry to hear that. Would you like to schedule an appointment with a doctor?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, I would."
+        },
+        {
+            "role": "gpt",
+            "content": "Are you registered with our hospital?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, I am."
+        },
+        {
+            "role": "gpt",
+            "content": "Great. Can you please provide your registration ID?"
+        },
+        {
+            "role": "human",
+            "content": "It's Pat789."
+        },
+        {
+            "role": "gpt",
+            "content": "fun(Pat789)"
+        },
+        {
+            "role": "human",
+            "content": "I need to update my registration information."
+        },
+        {
+            "role": "gpt",
+            "content": "Sure, I can help with that. Could you provide your current registration ID?"
+        },
+        {
+            "role": "human",
+            "content": "Pat101."
+        },
+        {
+            "role": "gpt",
+            "content": "To update your information, we'll need to verify your identity. Do you have your Aadhaar card?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, I do."
+        },
+        {
+            "role": "gpt",
+            "content": "SCANOBJ001"
+        },
+        {
+            "role": "human",
+            "content": "I want to book an appointment for my child."
+        },
+        {
+            "role": "gpt",
+            "content": "Is your child already registered with our hospital?"
+        },
+        {
+            "role": "human",
+            "content": "No, this is our first time."
+        },
+        {
+            "role": "gpt",
+            "content": "REG0NEW"
+        },
+        {
+            "role": "human",
+            "content": "I lost my registration card. What should I do?"
+        },
+        {
+            "role": "gpt",
+            "content": "We can help retrieve your registration information. Do you remember your registration ID?"
+        },
+        {
+            "role": "human",
+            "content": "No, I don't."
+        },
+        {
+            "role": "gpt",
+            "content": "That's okay. We can locate your information using other details. Do you have your Aadhaar card?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, I have it."
+        },
+        {
+            "role": "gpt",
+            "content": "SCANOBJ001"
+        },
+        {
+            "role": "human",
+            "content": "Book an appointment for me"
+        },
+        {
+            "role": "gpt",
+            "content": "Great. Can you please provide your registration ID?"
+        },
+        {
+            "role": "human",
+            "content": "My ID is Pat456."
+        },
+        {
+            "role": "gpt",
+            "content": "fun(Pat456)"
+        },
+        {
+            "role": "human",
+            "content": "I need to see a specialist."
+        },
+        {
+            "role": "gpt",
+            "content": "Sure, I can help you with that. Are you registered with our hospital?"
+        },
+        {
+            "role": "human",
+            "content": "Yes, I am."
+        },
+        {
+            "role": "gpt",
+            "content": "Great. Can you provide your registration ID?"
+        },
+        {
+            "role": "human",
+            "content": "It's Pat202."
+        },
+        {
+            "role": "gpt",
+            "content": "fun(Pat202)"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+spacy
+pytesseract
+opencv-python 
+numpy 
+random2 
+easyocr
+gTTS
+SpeechRecognition 
+playsound
+generativeai
+chromadb
+pypdf
+
+# for error solving 
+python -m spacy download en_core_web_lg
+python -m spacy download en_core_web_sm
+pip install --upgrade setuptools wheel 

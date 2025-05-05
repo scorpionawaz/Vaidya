@@ -1,0 +1,77 @@
+{
+    "RGN1": {
+        "name": "xyz abc",
+        "dob": "dd/mm/yyyy",
+        "addhar_no": 123456789123,
+        "age": 12,
+        "consulted_to": "VAID001",
+        "diagnosed_with": "bone fracture",
+        "reg_date": "",
+        "gender": "M",
+        "last_time_rep": {
+            "blood_pressure": "",
+            "respiration": "",
+            "spo2": ""
+        }
+    },
+    "RGN2": {
+        "name": "xyz ",
+        "dob": "dd/mm/yyyy",
+        "addhar_no": 123456789123,
+        "age": 12,
+        "consulted_to": "",
+        "diagnosed_with": "bone fracture",
+        "reg_date": "",
+        "gender": "M",
+        "last_time_rep": {
+            "blood_pressure": 12,
+            "respiration": 23,
+            "spo2": 45
+        }
+    },
+    "RGN6": {
+        "name": "Advait Bajirao Mhalungekar",
+        "dob": "03/03/2005",
+        "addhar_no": 744897130559,
+        "age": 18,
+        "consulted_to": "",
+        "diagnosed_with": "",
+        "reg_date": "28/02/2024",
+        "gender": "MALE",
+        "last_time_rep": {
+            "blood_pressure": "",
+            "respiration": "",
+            "spo2": ""
+        }
+    },
+    "RGN7": {
+        "name": "Bajirao Mhalungekar",
+        "dob": "03/03/2005",
+        "addhar_no": 744897130559,
+        "age": 18,
+        "consulted_to": "",
+        "diagnosed_with": "",
+        "reg_date": "28/02/2024",
+        "gender": "MALE",
+        "last_time_rep": {
+            "blood_pressure": "",
+            "respiration": "",
+            "spo2": ""
+        }
+    },
+    "RGN8": {
+        "name": "Bajirao Mhatui",
+        "dob": "7448",
+        "addhar_no": 744897130559,
+        "age": "Invalid date",
+        "consulted_to": "",
+        "diagnosed_with": "",
+        "reg_date": "29/02/2024",
+        "gender": "MALE",
+        "last_time_rep": {
+            "blood_pressure": "",
+            "respiration": "",
+            "spo2": ""
+        }
+    }
+}

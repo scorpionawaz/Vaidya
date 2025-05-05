@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rgb_border"
+    tools:context=".MainActivity">
+
+    <!-- Inner Layout -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/innerLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="16dp"
+        android:background="#FFFFFF"
+        android:padding="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageView
+            android:id="@+id/topImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/rolmodel"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="-30dp"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="318dp"
+            android:layout_height="84dp"
+            android:layout_marginTop="100dp"
+            android:text="VAIDYA"
+            android:onClick="onLanguageSelected"
+            android:textAlignment="center"
+            android:textColor="#0090FF"
+            android:textSize="68sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/subTitle"
+            android:layout_width="117dp"
+            android:layout_height="47dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="96dp"
+            android:text="भाषा चुनें"
+            android:textColor="#000000"
+            android:textSize="30sp"
+            app:layout_constraintBottom_toTopOf="@+id/languageGrid"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.462"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/titleText" />
+
+        <GridLayout
+            android:id="@+id/languageGrid"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginTop="26dp"
+            android:alignmentMode="alignMargins"
+            android:columnCount="2"
+            android:rowCount="4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/subTitle">
+
+            <!-- Example Language Boxes -->
+            <TextView
+                android:id="@+id/lang_english"
+                style="@style/LanguageBox"
+                android:background="@drawable/gradient_pink"
+                android:text="English"
+                android:onClick="onLanguageSelected" />
+
+            <TextView
+                android:id="@+id/lang_hindi"
+                style="@style/LanguageBox"
+
+                android:background="@drawable/gradient_blue"
+                android:text="हिंदी"
+                android:onClick="onLanguageSelected" />
+
+            <TextView
+                android:id="@+id/lang_marathi"
+                style="@style/LanguageBox"
+                android:background="@drawable/gradient_orange"
+                android:text="मराठी"
+                android:onClick="onLanguageSelected" />
+
+            <TextView
+                android:id="@+id/lang_tamil"
+                style="@style/LanguageBox"
+
+                android:background="@drawable/gradient_green"
+                android:text="தமிழ்" />
+
+            <TextView
+                android:id="@+id/lang_telugu"
+                style="@style/LanguageBox"
+                android:background="@drawable/gradient_red"
+                android:text="తెలుగు" />
+
+            <TextView
+                android:id="@+id/lang_bengali"
+                style="@style/LanguageBox"
+                android:layout_row="0"
+                android:background="@drawable/gradient_purple"
+                android:text="বাংলা" />
+
+            <TextView
+                android:id="@+id/lang_gujarati"
+                style="@style/LanguageBox"
+                android:background="@drawable/gradient_brown"
+                android:text="ગુજરાતી" />
+
+            <TextView
+                android:id="@+id/lang_kannada"
+                style="@style/LanguageBox"
+                android:background="@drawable/gradient_darkblue"
+                android:text="ಕನ್ನಡ" />
+        </GridLayout>
+
+        <ImageButton
+            android:id="@+id/micB2utton"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:background="@drawable/mic_background"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_mic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/languageGrid" />
+
+        <ScrollView
+            android:id="@+id/chatScrollView"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/micButton">
+
+            <LinearLayout
+                android:id="@+id/chatLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="8dp" />
+        </ScrollView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

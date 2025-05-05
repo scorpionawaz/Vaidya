@@ -1,0 +1,50 @@
+{
+  "cardiac": {
+    "VAID001": {
+      "name": "Dr. Advait Mhalungekar",
+      "current_status": "in appointment",
+      "estimate_time": 20,
+      "appointments": [
+        "RGN1"
+      ]
+    },
+    "VAID002": {
+      "name": "Dr. c hjjawsd",
+      "current_status": "available",
+      "estimate_time": 20,
+      "appointments": [
+        "RGN3"
+      ]
+    }
+  },
+  "orthopedic": {
+    "VAID003": {
+      "name": "Dr. Nawaz Sayyad",
+      "current_status": "available",
+      "estimate_time": 45,
+      "appointments": []
+    },
+    "VAID004": {
+      "name": "Dr. jmsabdhjb",
+      "current_status": "in appointment",
+      "estimate_time": 45,
+      "appointments": []
+    }
+  },
+  "general" : {
+    "VAID005" : {
+      "name":"Dr. Virendra Desai",
+      "current_status": "available",
+      "estimate_time": 15,
+      "appointments": []
+    }
+  },
+  "gynecologist" : {
+    "VAID006" : {
+      "name" : "Dr. Anuja Dhavan",
+      "current_status": "available",
+      "estimate_time": 15,
+      "appointments": []
+    }
+  } 
+}

@@ -1,0 +1,72 @@
+<!-- templates/index.html --> 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body onload="OnLoad()">
+    <div class="loader">
+        <span class="loader-element"></span>
+        <span class="loader-element"></span>
+        <span class="loader-element"></span>
+    </div>
+
+    <div id="chat-container">
+        <div id="chat">
+            <div class="flex">
+                <div class="title-logo">
+                    <div class="vaidya">
+                        V<span id="ai">AI</span>DYA
+                    </div>
+                    <div class="logo vanish">
+                        <img src="{{ url_for('static', filename='digitalindia.jpg') }}" width="400" height="100" alt="MakeinIndia">
+                    </div>
+                </div>
+            </div>
+            <div class="welcome vanish">
+                <div class="hello">
+                    नमस्ते, 
+                </div>
+                <div class="inograte vanish">
+                    में आपकी क्या सहायता कर सकती हूँ?
+                </div>
+            </div>
+            <div class="change-lang vanish">
+                <div class="lang marathi">मराठी</div>
+                <div class="lang eng">ENGLISH</div>
+                <div class="lang hindi">हिन्दी</div>
+            </div>
+            <div class="boxes vanish">
+                <div class="box " id="box-1">क्या मैं आपका नियुक्ति बुकिंग कर सकती हूँ</div>
+                <div class="box " id="box-2">रोगी के पास जाएँ</div>
+                <div class="box " id="box-3">स्वास्थ्य देखभाल योजनाओं के बारे में जानकारी</div>
+                <div class="box " id="box-4">मैं पंजीकरण करना चाहता हूँ</div>
+            </div>
+            <div class="loader-msg">
+                <div class="inner one"></div>
+                <div class="inner two"></div>
+                <div class="inner three"></div>
+            </div>
+        </div>
+        <div class="form">
+            <form id="chat-form">
+                <div class="input">
+                    <input type="text" id="user-input" placeholder="Ask a question..." disabled required  autocomplete="off" />
+                    <div class="mic-img disable-img"  id="microphone-icon">
+                        <img src="{{ url_for('static', filename='mic.svg') }}" width="30"  height="30"  alt="microphone">
+                    </div>
+                    <div class="upload-img disable-img">
+                        <img src="{{ url_for('static', filename='upload.svg') }}" width="30" height="30"   alt="upload">
+                    </div>
+                </div>
+                <button type="submit"></button>               
+            </form>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

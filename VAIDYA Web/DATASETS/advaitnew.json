@@ -1,0 +1,100 @@
+[
+    {
+        "dialog": [
+            {"content": "I have a headache.", "role": "user"},
+            {"content": "I'm sorry to hear that. Would you like to book an appointment?", "role": "assistant"},
+            {"content": "Yes, please.", "role": "user"},
+            {"content": "Have you registered with us before?", "role": "assistant"},
+            {"content": "No, I haven't.", "role": "user"},
+            {"content": "Let's start your registration. Do you have an Aadhaar card?", "role": "assistant"},
+            {"content": "Yes, I do.", "role": "user"},
+            {"content": "SCANOBJ001", "role": "assistant"}
+        ]
+    },
+    {
+        "dialog": [
+            {"content": "I need to see a doctor.", "role": "user"},
+            {"content": "Are you registered with us?", "role": "assistant"},
+            {"content": "Yes, I am.", "role": "user"},
+            {"content": "Great. Can you please provide your registration ID?", "role": "assistant"},
+            {"content": "My ID is Pat456.", "role": "user"},
+            {"content": "fun(Pat456)", "role": "assistant"}
+        ]
+    },
+    {
+        "dialog": [
+            {"content": "I want to register.", "role": "user"},
+            {"content": "Sure! Do you have an Aadhaar card?", "role": "assistant"},
+            {"content": "Yes, I do.", "role": "user"},
+            {"content": "SCANOBJ001", "role": "assistant"}
+        ]
+    },
+    {
+        "dialog": [
+            {"content": "I need to register.", "role": "user"},
+            {"content": "I'd be happy to assist you. Do you have an Aadhaar card?", "role": "assistant"},
+            {"content": "No, I don't have one.", "role": "user"},
+            {"content": "TAKEMANUAL002", "role": "assistant"}
+        ]
+    },
+    {
+        "dialog": [
+            {"content": "I have a fever.", "role": "user"},
+            {"content": "Would you like to book an appointment with a doctor?", "role": "assistant"},
+            {"content": "Yes, please.", "role": "user"},
+            {"content": "Are you registered with us?", "role": "assistant"},
+            {"content": "I don't remember.", "role": "user"},
+            {"content": "We can check using some personal information or start a new registration. What would you prefer?", "role": "assistant"}
+        ]
+    },
+    {
+        "dialog": [
+            {"content": "My stomach hurts.", "role": "user"},
+            {"content": "I'm sorry to hear that. Would you like to schedule an appointment with a doctor?", "role": "assistant"},
+            {"content": "Yes, I would.", "role": "user"},
+            {"content": "Are you registered with our hospital?", "role": "assistant"},
+            {"content": "Yes, I am.", "role": "user"},
+            {"content": "Great. Can you please provide your registration ID?", "role": "assistant"},
+            {"content": "It's Pat789.", "role": "user"},
+            {"content": "fun(Pat789)", "role": "assistant"}
+        ]
+    },
+    {
+        "dialog": [
+            {"content": "I need to update my registration information.", "role": "user"},
+            {"content": "Sure, I can help with that. Could you provide your current registration ID?", "role": "assistant"},
+            {"content": "Pat101.", "role": "user"},
+            {"content": "To update your information, we'll need to verify your identity. Do you have your Aadhaar card?", "role": "assistant"},
+            {"content": "Yes, I do.", "role": "user"},
+            {"content": "SCANOBJ001", "role": "assistant"}
+        ]
+    },
+    {
+        "dialog": [
+            {"content": "I want to book an appointment for my child.", "role": "user"},
+            {"content": "Is your child already registered with our hospital?", "role": "assistant"},
+            {"content": "No, this is our first time.", "role": "user"},
+            {"content": "REG0NEW", "role": "assistant"}
+        ]
+    },
+    {
+        "dialog": [
+            {"content": "I lost my registration card. What should I do?", "role": "user"},
+            {"content": "We can help retrieve your registration information. Do you remember your registration ID?", "role": "assistant"},
+            {"content": "No, I don't.", "role": "user"},
+            {"content": "That's okay. We can locate your information using other details. Do you have your Aadhaar card?", "role": "assistant"},
+            {"content": "Yes, I have it.", "role": "user"},
+            {"content": "SCANOBJ001", "role": "assistant"}
+        ]
+    },
+    {
+        "dialog": [
+            {"content": "I need to see a specialist.", "role": "user"},
+            {"content": "Sure, I can help you with that. Are you registered with our hospital?", "role": "assistant"},
+            {"content": "Yes, I am.", "role": "user"},
+            {"content": "Great. Can you provide your registration ID?", "role": "assistant"},
+            {"content": "It's Pat202.", "role": "user"},
+            {"content": "fun(Pat202)", "role": "assistant"}
+        ]
+    }
+]
