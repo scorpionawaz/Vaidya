@@ -1,7 +1,7 @@
  
 import openai
 
-openai.api_key = "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"
+openai.api_key = "sk-jU2me"
 def register(user_question,register_classifier, history):
     messages = [{"role": "system", "content": register_classifier}]
     messages.extend(history)
