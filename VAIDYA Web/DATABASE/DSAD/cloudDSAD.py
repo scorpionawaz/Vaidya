@@ -8,7 +8,7 @@ access_creds = Credentials.from_service_account_file("VaidyaDSAD_kunal.json", sc
 client = gspread.authorize(access_creds)
 
 # Open the spreadsheet by key
-sheet = client.open_by_key("1B-JaDs_vtGVmBSkL8jgyQsLmLdwzP9wA6MKBPRjJOFA")
+sheet = client.open_by_key("===")
 
 # Access the main worksheet
 worksheet = sheet.sheet1
